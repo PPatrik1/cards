@@ -11,8 +11,8 @@
 
 <body>
     <div class="card">
-        <img src="minta1.png" alt="">
-        <div class="card-text">
+        
+        <img src="minta1.png" alt=""><div class="card-text">
             <h2>My webpage</h2>
             <p>This is my "Webalapok" named webpage. </p>
         </div>
