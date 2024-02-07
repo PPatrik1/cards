@@ -18,7 +18,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="M:\PROGIALAPOK\1_WEBSZERKESZTÉS\Cards\Órarend.png" alt="">
+        <img src="Órarend.png" alt="">
         <div class="card-text">
             <h2>My timetable</h2>
             <p>This is my timetable. </p>
