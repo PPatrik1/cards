@@ -11,7 +11,7 @@
 
 <body>
     <div class="card">
-        <img src="M:\PROGIALAPOK\1_WEBSZERKESZTÉS\Cards\minta1.png" alt="">
+        <img src="minta1.png" alt="">
         <div class="card-text">
             <h2>My webpage</h2>
             <p>This is my "Webalapok" named webpage. </p>
@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="M:\PROGIALAPOK\1_WEBSZERKESZTÉS\Cards\minta2.png" alt="">
+        <img src="minta2.png" alt="">
         <div class="card-text">
             <h2>I don't what is this</h2>
             <p>some random picture about some random webpage. </p>
